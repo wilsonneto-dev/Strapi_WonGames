@@ -11,3 +11,7 @@
 ### Creating the database:
 `CREATE DATABASE wongames OWNER wongames`
 
+### adding CKEditor
+Copy the files from plugin folder from the example
+Install: @ckeditor/ckeditor5-react @ckeditor/ckeditor5-build-classic
+
